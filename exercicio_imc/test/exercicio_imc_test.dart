@@ -20,7 +20,5 @@ void main() {
             'Maria, seu imc é de 17.58, que é considerado como magreza leve para seu peso e altura'),
       );
     });
-
-    // Adicione mais testes conforme necessário para cobrir outros casos.
   });
 }
